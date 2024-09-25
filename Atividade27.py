@@ -11,6 +11,7 @@
 # Digite o nome do convidado a ser removido: Maria
 
 lista = []
+sans = str("o")
 
 for c in range(7):
     convidado = input(F"Digite o nome do {c + 1} convidado")
