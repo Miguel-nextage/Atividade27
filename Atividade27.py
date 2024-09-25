@@ -18,7 +18,7 @@ for c in range(7):
 
     lista.append(convidado)
 
-    if c == 7:
+    if c == 6:
         sans = input("Deseja remover algum convidado? (S/N)")
 
 if sans == "sim":
